@@ -90,4 +90,13 @@ Wireframing plays an important role in the software development process by creat
 - **Saves Time and Resources**  
   Adjusting wireframes is faster and less costly than reworking completed designs or code. This reduces wasted effort later in the project.  
 
+---
 
+## Wireframing in Practice
+In a real-world scenario, a team was designing a booking platform. During the wireframing stage, they noticed that the original layout placed the “Confirm Booking” button at the bottom of a long form, making it easy for users to overlook.  
+
+By identifying this potential usability issue early, the team adjusted the wireframe to move the button closer to the top and added a clear progress indicator. This change was implemented before any coding began, preventing a frustrating user experience and avoiding costly revisions later.  
+
+As a result, the final product was more intuitive and user-friendly, with a smooth booking process.  
+
+**Conclusion:** Wireframing acts as a critical early checkpoint in the design process. It allows teams to detect and resolve usability problems before development, ensuring the product is structured, functional, and easy for users to navigate.
